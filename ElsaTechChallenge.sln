@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizCodingChallenge", "QuizCodingChallenge\QuizCodingChallenge.csproj", "{0EDD62D3-609B-40EC-A71B-C19132615ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizConsoleClient", "QuizConsoleClient\QuizConsoleClient.csproj", "{97B9A664-E02A-4F20-9381-3246EC3A257C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EDD62D3-609B-40EC-A71B-C19132615ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDD62D3-609B-40EC-A71B-C19132615ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDD62D3-609B-40EC-A71B-C19132615ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDD62D3-609B-40EC-A71B-C19132615ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B9A664-E02A-4F20-9381-3246EC3A257C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B9A664-E02A-4F20-9381-3246EC3A257C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B9A664-E02A-4F20-9381-3246EC3A257C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B9A664-E02A-4F20-9381-3246EC3A257C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
